@@ -1,0 +1,35 @@
+{
+  "name": "wks-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "ejercicio-uno": "nodemon  \"./homeworks/ejercicio 1.ts\"",
+    "ejercicio-dos": "nodemon  \"./homeworks/ejercicio 2/ejercicio 2.ts\"",
+    "ejercicio-tres": "nodemon  \"./homeworks/ejercicio 3.ts\"",
+    "ejercicio-cuatro": "nodemon  \"./homeworks/ejercicio 4.ts\"",
+    "ejercicio-cinco": "nodemon  \"./homeworks/ejercicio 5.ts\"",
+    "ejercicio-seis": "nodemon  \"./homeworks/ejercicio 6.ts\"",
+    "ejercicio-siete": "nodemon  \"./homeworks/ejercicio 7.ts\"",
+    "ejercicio-ocho": "nodemon  \"./homeworks/ejercicio 8.ts\"",
+    "ejercicio-nueve": "nodemon  \"./homeworks/ejercicio 9.ts\"",
+<<<<<<< HEAD
+    "ejercicio-diez": "nodemon  \"./homeworks/ejercicio 10.ts\"",
+    "test": "jest --coverage"
+=======
+    "ejercicio-diez": "nodemon  \"./homeworks/ejercicio 10.ts\""
+>>>>>>> d5c5865d5b3cc25baaccca69857ae31dcf8ca1da
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+<<<<<<< HEAD
+    "jest": "^29.3.1",
+    "nodemon": "^2.0.14",
+    "ts-jest": "^29.0.3",
+=======
+    "nodemon": "^2.0.14",
+>>>>>>> d5c5865d5b3cc25baaccca69857ae31dcf8ca1da
+    "ts-node": "^10.3.0",
+    "typescript": "^4.4.4"
+  }
+}
